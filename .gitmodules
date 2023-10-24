@@ -1,0 +1,6 @@
+[submodule "notes-app-frontend"]
+	path = notes-app-frontend
+	url = https://github.com/SaquibShakeel/notes-app-frontend.git
+[submodule "notes-app-backend"]
+	path = notes-app-backend
+	url = https://github.com/SaquibShakeel/notes-app-backend.git
